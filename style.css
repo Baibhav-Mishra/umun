@@ -122,6 +122,7 @@ main#background
 #coming-soon
 {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 100vw;
@@ -132,7 +133,7 @@ main#background
 {
     margin-top: 20px;
     font-weight: normal;
-    font-family: ProductSansBold, sans-serif;
+    font-family: ProductSans, sans-serif;
     text-align: center;
 }
 
